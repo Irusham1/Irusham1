@@ -62,52 +62,64 @@ A smart system using **Computer Vision** and **Machine Learning** to detect and 
 
 ## 🧩 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="150%" valign="top">
 
-### 🛒 E-Commerce Website for Gym Equipment
-[![Gym Equipment](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/irusham1)
+### 🛒 E-Commerce Website
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/irusham1)
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" />
-
-**Full-stack website for selling fitness & gym products**
-- 🛍️ Shopping cart & checkout system
-- 💳 Payment gateway integration
+Full-stack website for gym products
+- 🛍️ Shopping cart & checkout
+- 💳 Payment integration
 - 📊 Admin dashboard
-- 🔐 User authentication
 
-**Tech:** HTML, CSS, JavaScript, PHP, MySQL
+**Tech:** PHP, MySQL, JavaScript
 
----
+</td>
+<td width="150%" valign="top">
 
-### 💊 IoT Health Monitoring System
-[![Health Monitor](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/irusham1)
+### 💊 IoT Health Monitor
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/irusham1)
 
-<img src="https://media.giphy.com/media/l0HlHJGHe3yAMhdQY/giphy.gif" width="80" />
+Real-time health monitoring system
+- ❤️ Heart Rate & SpO2
+- 📈 ECG readings
+- 🌡️ Temperature tracking
 
-**Real-time health monitoring using IoT devices**
-- ❤️ Heart Rate monitoring (MAX30102)
-- 🫁 SpO2 level tracking
-- 📈 ECG readings (AD8232)
-- 🌡️ Temperature sensor (DS18B20)
+**Tech:** ESP32, Firebase, Flutter
 
-**Tech:** ESP32, Firebase, Flutter, C++
+</td>
+</tr>
+<tr>
+<td width="150%" valign="top">
 
----
+### 👨‍💼 Payroll System
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/irusham1)
 
-### 👨‍💼 Payroll Management System
-[![Payroll](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/irusham1)
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" />
-
-**Comprehensive employee & payroll management**
+Employee & payroll management
 - 👥 Employee management
 - 📅 Leave tracking
-- 💰 Salary & cash advance handling
-- 📄 Report generation
+- 💰 Salary processing
 
 **Tech:** PHP, MySQL, Bootstrap
 
-</div>
+</td>
+<td width="50%" valign="top">
+
+### 🧠 AI Disease Detection
+[![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)](https://github.com/irusham1)
+
+CNN-based X-Ray analysis
+- 🩻 X-Ray image analysis
+- 🤖 Deep learning (CNN)
+- 🔍 Disease classification
+
+**Tech:** Python, TensorFlow, Keras
+
+</td>
+</tr>
+</table>
 
 ---
 
