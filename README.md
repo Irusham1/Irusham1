@@ -80,7 +80,7 @@ A smart system using **Computer Vision** and **Machine Learning** to detect and 
 ---
 
 ### 💊 IoT Health Monitoring System
-[![Health Monitor](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)](https://github.com/irusham1)
+[![Health Monitor](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/irusham1)
 
 <img src="https://media.giphy.com/media/l0HlHJGHe3yAMhdQY/giphy.gif" width="80" />
 
@@ -106,6 +106,22 @@ A smart system using **Computer Vision** and **Machine Learning** to detect and 
 - 📄 Report generation
 
 **Tech:** PHP, MySQL, Bootstrap
+
+---
+
+### 🧠 Deep Learning Disease Detection
+[![Disease Detection](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)](https://github.com/irusham1)
+
+<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80" />
+
+**Automated Disease Detection from X-Ray Images using CNNs**
+- 🩻 X-Ray image analysis
+- 🤖 Convolutional Neural Networks (CNN)
+- 🔍 Multi-disease classification
+- 📊 High accuracy diagnostics
+- 💡 Transfer learning implementation
+
+**Tech:** Python, TensorFlow, Keras, OpenCV, NumPy
 
 </div>
 
