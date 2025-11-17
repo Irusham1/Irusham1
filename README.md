@@ -38,7 +38,7 @@ A smart system using **Computer Vision** and **Machine Learning** to detect and 
 **Tech Stack:** Python, OpenCV, TensorFlow, Flask
 
 </td>
-<td width="150%">
+<td width="50%">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 </td>
 </tr>
@@ -62,63 +62,68 @@ A smart system using **Computer Vision** and **Machine Learning** to detect and 
 
 ## 🧩 Featured Projects
 
+## 🚀 Projects
 <table>
 <tr>
-<td width="250%" valign="top">
+<td width="50%" valign="top">
 
+## 🧠 **AI Disease Detection**
+![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)
 
-### 🧠 AI Disease Detection
-[![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)](https://github.com/irusham1)
+Deep learning–based medical analysis  
+- 🩻 X-Ray image processing  
+- 🤖 CNN model training  
+- 🧪 Disease prediction  
 
-CNN-based X-Ray analysis
-- 🩻 X-Ray image analysis
-- 🤖 Deep learning (CNN)
-- 🔍 Disease classification
-
-**Tech:** Python, TensorFlow, Keras
-
-
-### 🛒 E-Commerce Website
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/irusham1)
-
-Full-stack website for gym products
-- 🛍️ Shopping cart & checkout
-- 💳 Payment integration
-- 📊 Admin dashboard
-
-**Tech:** PHP, MySQL, JavaScript
+**Tech:** Python, TensorFlow, Keras  
 
 </td>
-<td width="250%" valign="top">
+<td width="50%" valign="top">
 
-### 💊 IoT Health Monitor
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/irusham1)
+## 💊 **IoT Health Monitoring System**
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
-Real-time health monitoring system
-- ❤️ Heart Rate & SpO2
-- 📈 ECG readings
-- 🌡️ Temperature tracking
+Real-time patient vital tracking  
+- ❤️ Heart Rate, SpO2  
+- 📈 ECG Visualization  
+- 🌡️ Temperature monitor  
 
-**Tech:** ESP32, Firebase, Flutter
+**Tech:** ESP32, Firebase, Flutter  
 
 </td>
 </tr>
+
 <tr>
-<td width="250%" valign="top">
+<td width="50%" valign="top">
 
-### 👨‍💼 Payroll System
-[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/irusham1)
+## 👨‍💼 **Payroll Management System**
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
 
-Employee & payroll management
-- 👥 Employee management
-- 📅 Leave tracking
-- 💰 Salary processing
+Full employee & payroll suite  
+- 👥 Employee CRUD  
+- 📅 Leave management  
+- 💰 Salary generation  
 
-**Tech:** PHP, MySQL, Bootstrap
+**Tech:** PHP, MySQL, Bootstrap  
+
+</td>
+<td width="50%" valign="top">
+
+## 🛒 **Gym Equipment E-Commerce Website**
+![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)
+
+Online store for fitness items  
+- 🛍️ Product catalog + Cart  
+- 💳 Checkout system  
+- 📊 Admin analytics dashboard  
+
+**Tech:** PHP, MySQL, JavaScript  
 
 </td>
 </tr>
 </table>
+
+
 
 ---
 
