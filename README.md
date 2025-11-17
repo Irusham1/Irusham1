@@ -38,7 +38,7 @@ A smart system using **Computer Vision** and **Machine Learning** to detect and 
 **Tech Stack:** Python, OpenCV, TensorFlow, Flask
 
 </td>
-<td width="50%">
+<td width="150%">
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%">
 </td>
 </tr>
@@ -64,7 +64,19 @@ A smart system using **Computer Vision** and **Machine Learning** to detect and 
 
 <table>
 <tr>
-<td width="150%" valign="top">
+<td width="250%" valign="top">
+
+
+### 🧠 AI Disease Detection
+[![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)](https://github.com/irusham1)
+
+CNN-based X-Ray analysis
+- 🩻 X-Ray image analysis
+- 🤖 Deep learning (CNN)
+- 🔍 Disease classification
+
+**Tech:** Python, TensorFlow, Keras
+
 
 ### 🛒 E-Commerce Website
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/irusham1)
@@ -77,7 +89,7 @@ Full-stack website for gym products
 **Tech:** PHP, MySQL, JavaScript
 
 </td>
-<td width="150%" valign="top">
+<td width="250%" valign="top">
 
 ### 💊 IoT Health Monitor
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/irusham1)
@@ -92,7 +104,7 @@ Real-time health monitoring system
 </td>
 </tr>
 <tr>
-<td width="150%" valign="top">
+<td width="250%" valign="top">
 
 ### 👨‍💼 Payroll System
 [![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/irusham1)
@@ -103,19 +115,6 @@ Employee & payroll management
 - 💰 Salary processing
 
 **Tech:** PHP, MySQL, Bootstrap
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 AI Disease Detection
-[![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)](https://github.com/irusham1)
-
-CNN-based X-Ray analysis
-- 🩻 X-Ray image analysis
-- 🤖 Deep learning (CNN)
-- 🔍 Disease classification
-
-**Tech:** Python, TensorFlow, Keras
 
 </td>
 </tr>
