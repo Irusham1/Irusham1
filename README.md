@@ -62,68 +62,65 @@ A smart system using **Computer Vision** and **Machine Learning** to detect and 
 
 ## 🧩 Featured Projects
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🛒 E-Commerce Website for Gym Equipment
-[![Gym Equipment](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/irusham1)
+### 🧠 AI Disease Detection
+[![Status](https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square)](https://github.com/irusham1)
 
-<img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="80" />
+CNN-based X-Ray analysis
+- 🩻 X-Ray image analysis
+- 🤖 Deep learning (CNN)
+- 🔍 Disease classification
 
-**Full-stack website for selling fitness & gym products**
-- 🛍️ Shopping cart & checkout system
-- 💳 Payment gateway integration
+**Tech:** Python, TensorFlow, Keras
+
+### 🛒 E-Commerce Website
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/irusham1)
+
+Full-stack website for gym products
+- 🛍️ Shopping cart & checkout
+- 💳 Payment integration
 - 📊 Admin dashboard
-- 🔐 User authentication
 
-**Tech:** HTML, CSS, JavaScript, PHP, MySQL
+**Tech:** PHP, MySQL, JavaScript
 
----
+</td>
+<td width="50%" valign="top">
 
-### 💊 IoT Health Monitoring System
-[![Health Monitor](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/irusham1)
+### 💊 IoT Health Monitor
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/irusham1)
 
-<img src="https://media.giphy.com/media/l0HlHJGHe3yAMhdQY/giphy.gif" width="80" />
+Real-time health monitoring system
+- ❤️ Heart Rate & SpO2
+- 📈 ECG readings
+- 🌡️ Temperature tracking
 
-**Real-time health monitoring using IoT devices**
-- ❤️ Heart Rate monitoring (MAX30102)
-- 🫁 SpO2 level tracking
-- 📈 ECG readings (AD8232)
-- 🌡️ Temperature sensor (DS18B20)
+**Tech:** ESP32, Firebase, Flutter
 
-**Tech:** ESP32, Firebase, Flutter, C++
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
----
+### 👨‍💼 Payroll System
+[![Status](https://img.shields.io/badge/Status-Completed-success?style=flat-square)](https://github.com/irusham1)
 
-### 👨‍💼 Payroll Management System
-[![Payroll](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/irusham1)
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="80" />
-
-**Comprehensive employee & payroll management**
+Employee & payroll management
 - 👥 Employee management
 - 📅 Leave tracking
-- 💰 Salary & cash advance handling
-- 📄 Report generation
+- 💰 Salary processing
 
 **Tech:** PHP, MySQL, Bootstrap
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🧠 Deep Learning Disease Detection
-[![Disease Detection](https://img.shields.io/badge/Status-In%20Progress-blue?style=for-the-badge)](https://github.com/irusham1)
 
-<img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="80" />
-
-**Automated Disease Detection from X-Ray Images using CNNs**
-- 🩻 X-Ray image analysis
-- 🤖 Convolutional Neural Networks (CNN)
-- 🔍 Multi-disease classification
-- 📊 High accuracy diagnostics
-- 💡 Transfer learning implementation
-
-**Tech:** Python, TensorFlow, Keras, OpenCV, NumPy
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
