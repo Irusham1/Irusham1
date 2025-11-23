@@ -1,4 +1,4 @@
-# Hi 👋, I'm Iruka
+# Hi 👋, I'm P.A.I.Shamodya
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=6366F1&center=true&vCenter=true&width=940&lines=Passionate+Full-Stack+Developer;QA+Enthusiast;IoT+Developer;Building+Innovative+Solutions" alt="Typing SVG" />
