@@ -15,10 +15,10 @@
 
 ```javascript
 const iruka = {
-    role: "Full-Stack Developer & IoT Enthusiast",
-    currentFocus: "Traffic Violation Detection System",
+    role: "QA Engineer",
+    currentFocus: "Traffic Violation Detection System & X-ray Image Analyzer",
     location: "Sri Lanka 🇱🇰",
-    interests: ["Web Development", "IoT", "Automation", "AI/ML"],
+    interests: ["Web Development", "Automation", "AI/ML"],
     lifePhilosophy: "Code. Learn. Build. Repeat. 🔄"
 };
 ```
